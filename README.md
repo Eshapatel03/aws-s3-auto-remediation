@@ -41,12 +41,16 @@ S3 bucket has public access enabled
 Security warning is visible
 System detects misconfiguration
 
+https://github.com/Eshapatel03/aws-s3-auto-remediation/blob/main/before-block-public-access-off.png
+https://github.com/Eshapatel03/aws-s3-auto-remediation/blob/main/before-public-policy-visible.png
 
 🟩 AFTER STATE (Secure Condition)
 Public access is removed or blocked
 Bucket is secured automatically
 No manual intervention required
 
+https://github.com/Eshapatel03/aws-s3-auto-remediation/blob/main/after-block-public-access-on.png
+https://github.com/Eshapatel03/aws-s3-auto-remediation/blob/main/after-policy-removed.png
 👉 These screenshots prove real-time detection and automatic remediation.
 
 🛠️ Tech Stack
